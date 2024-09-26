@@ -67,7 +67,7 @@ ORDER BY
 LIMIT 10;
 ```
 
-![Top paying Jobs](image.png)
+![Top Paying jobs](https://github.com/user-attachments/assets/7c14e749-d7b9-4f50-b832-9e283588eaf8)
 
 
 This chart provides a visual comparison of the average salaries across various roles in the data job market
@@ -114,7 +114,7 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY
     salary_year_avg DESC;
 ```
-![Top skills demand](image-1.png)  
+![Top Paying skills](https://github.com/user-attachments/assets/fb670012-af1e-4552-961a-e5a35ea9a077) 
 
 - SQL (3 mentions): Still a high-demand skill for data querying and analytics roles.
 
@@ -146,7 +146,7 @@ ORDER BY
 LIMIT 5;
 ```
 
-![Top 5 Skills](image-2.png)
+![Top Demanded skills](https://github.com/user-attachments/assets/70270e01-b07a-493f-9128-fd272c2965c4)
 
 - SQL is the most in-demand skill, with 14,779 job listings or opportunities mentioning it.
 
@@ -164,7 +164,7 @@ SQL and Python lead the pack, showing their dominance in data roles, while R, Ta
 
 Exploring the average salaries associated with different skills revealed which skills are the highest paying.
 
-![Top Salary Skills](image-3.png)
+![Top Salary skill](https://github.com/user-attachments/assets/83d30674-fbf6-4f34-abfb-3d4180f054e5)
 
 - High-Paying Skills: GDPR leads the pack with the highest average salary ($217,738), followed by Bitbucket and Golang, indicating strong demand for compliance, version control, and efficient programming skills.
 
@@ -199,7 +199,7 @@ ORDER BY
 LIMIT 25;
 ```
 
-![Top Optimal Skills](image-4.png)
+![Top Optimal skills](https://github.com/user-attachments/assets/33726d81-5c64-4b5b-b3d8-0c866b80493b)
 
 - Top-Paying Skills: Skills like C, GCP (Google Cloud Platform), and Scala offer the highest average salaries, all around $154K, indicating strong demand for cloud infrastructure and programming expertise.
 
