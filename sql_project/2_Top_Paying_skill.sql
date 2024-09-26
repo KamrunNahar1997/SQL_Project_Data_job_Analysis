@@ -31,10 +31,10 @@ ORDER BY
 
 
 --Most In-Demand Skills 
---SQL takes the lead with a notable count of 4 mentions.
---Python is a close second, appearing 4 times.
---aws and java also ranks highly, with 2 mentions each.
---Additional skills such as c, cassandra, tableau etc show varying levels of demand.
+--SQL (3 mentions): Still a high-demand skill for data querying and analytics roles.
+--Python (3 mentions): Widely sought after for programming, analytics, and machine learning.
+--AWS (2 mentions): Cloud computing expertise is in growing demand.
+--Big Data & ML Tools (Hadoop, Spark, TensorFlow, etc. 1 mention each): Specialized tools required for advanced roles, but less frequent than SQL or Python.
 
 
 
